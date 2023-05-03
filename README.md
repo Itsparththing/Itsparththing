@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Parth Agrawal</h1>
-<h3 align="paragraph">I'm adept at solving problems and Strong education professional with a Bachelor of Technology - BTech focused in CSE (Cyber Security and Digital Forensics) from Vellore Institute of Technology. I’m a tech enthusiast and love to do programming, I have knowledge and created some projects in Python, C/C++, Java, CSS & JavaScript. 
-I’m a frontend developer, and I specialize in efficient CSS & Javascript that just works across all platforms and browsers. I'm passionate about creating useful and pleasant user interfaces for as many people as possible. 
-I’m a Cyber guy, so have some knowledge about Hacking, Pen-Testing, Deep/Dark Web and currently working on essentials of Cybersecurity & Ethical hacking. Also, have an interest in Cryptography and Blockchain and I’m working on a paper on Cryptocurrencies as a part of my curriculum. 
-I also have interest in cloud computing and cloud security, for it I'm doing Google Cloud Platform (GCP) and Microsoft Azure.</h3>
+<h3 align="justify">I'm adept at solving problems and Strong education professional with a Bachelor of Technology - BTech focused in CSE (Cyber Security and Digital Forensics) from Vellore Institute of Technology. I’m a tech enthusiast and love to do programming, I have knowledge and created some projects in Python, C/C++, Java, CSS & JavaScript.
+<p>
+<h3 align="justify">I’m a frontend developer, and I specialize in efficient CSS & Javascript that just works across all platforms and browsers. I'm passionate about creating useful and pleasant user interfaces for as many people as possible. 
+<p>
+<h3 align="justify">I’m a Cyber guy, so have some knowledge about Hacking, Pen-Testing, Deep/Dark Web and currently working on essentials of Cybersecurity & Ethical hacking. Also, have an interest in Cryptography and Blockchain and I’m working on a paper on Cryptocurrencies as a part of my curriculum. 
+<p>
+<h3 align="justify">I also have interest in cloud computing and cloud security, for it I'm doing Google Cloud Platform (GCP) and Microsoft Azure.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsparththing&label=Profile%20views&color=0e75b6&style=flat" alt="itsparththing" /> </p>
 
