@@ -1,3 +1,5 @@
+![logo](https://github.com/shivyanshi/shivyanshi/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Parth Agrawal</h1>
 <h3 align="justify">I'm adept at solving problems and Strong education professional with a Bachelor of Technology - BTech focused in CSE (Cyber Security and Digital Forensics) from Vellore Institute of Technology. I’m a tech enthusiast and love to do programming, I have knowledge and created some projects in Python, C/C++, Java, CSS & JavaScript.
 <p>
