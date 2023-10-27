@@ -23,16 +23,24 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsparththing" alt="itsparththing" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Itsparththing&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <h1 align="center">
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Itsparththing&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Itsparththing&theme=tokyonight&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsparththing&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Itsparththing&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Itsparththing&theme=radical&hide_border=false)<br/>
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsparththing&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
-<h1 align="center">
+
+
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Itsparththing&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Itsparththing&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Itsparththing&icon=0&color=0)](https://visitcount.itsvg.in)
