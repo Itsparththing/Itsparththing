@@ -1,7 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/86774143/235984458-e699e802-74bb-4558-b4bd-fca614d8c10e.png)
 
 
-<h1 align="center">Hi 👋, I'm Parth Agrawal</h1>
+<h1 align="center">Hi 👋, I'm Parth Agrawa</h1>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=itsparththing&label=Profile%20views&color=0e75b6&style=flat" alt="itsparththing" /> </p>
 
